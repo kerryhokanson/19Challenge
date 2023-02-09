@@ -21,9 +21,5 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
-  },
-  "browserlist": [
-    "defaults and supports es6-module",
-    "maintained node versions"
-  ]
+  } 
 }
